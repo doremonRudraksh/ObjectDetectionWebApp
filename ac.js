@@ -26,5 +26,5 @@ function gotResults(error,results){
 }
 
 function draw(){
-    image(AC_image,0,0,640,350);
+    image(ac_image,0,0,640,350);
 }
